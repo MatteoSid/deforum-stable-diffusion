@@ -1,0 +1,6 @@
+venv/*
+helpers/*
+src/*
+GIFs/*
+output/*
+.vscode/*
